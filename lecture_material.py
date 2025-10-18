@@ -131,12 +131,72 @@
 # print(name)
 # print(type(name))
 
-print("helow" +11)
 
 
 
+# number_01 = int(input("Enter a number: "))
+# result = number_01 + 10;
+# print(result);
 
 
+## function
+#
+# print("Hello World")
+
+
+# def function_name():
+#   print(2 + 2)
+# function_name()
+
+# def function_name(parameter):
+#     print(parameter + 3)
+# function_name(3)
+#
+#
+# first_str ="The number is "
+#
+# def fuction_name(p1,p2,p3):
+#     print(p1+str(p2)+ p3)
+#
+# fuction_name(first_str,5," is an integer . ")
+
+#default parameters
+
+#
+# def default_example(num1=7,num2=5):
+#     print(num1,num2)
+#
+# default_example(1,2)
+
+
+#
+# def default_example(num1=7,num2=5):
+#     return num1+num2
+#
+# print(default_example(1,1) + 13)
+
+
+#
+# def Hello_world_printer():
+#       print("Hello World")
+#
+# Hello_world_printer()
+
+# def function_name(user_name):
+#        print(user_name)
+
+
+# name = input("Enter your name: ")
+# function_name(name)
+
+import random
+# print(random.randint(1,10))
+
+# from random import randint
+# print(randint(1,10))
+
+# from random import*
+# print(randint(1,10))
 
 
 
