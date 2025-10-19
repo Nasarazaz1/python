@@ -198,21 +198,54 @@ import random
 # from random import*
 # print(randint(1,10))
 
+#
+# veg =input("Enter he name of vegetable.")
+# if veg == "corn":
+#     print("vegetable is Corn")
+# else:
+#     print("vegetable is not Corn")
 
 
+#nested if else
 
+# Student_Score = int(input("Enter your Score: "))
+# if Student_Score >= 90:
+#     print("Student scored  : " + str(Student_Score) +  " & is grade A ")
+# else:
+#     if Student_Score >= 80:
+#         print("Student scored  : " + str(Student_Score) +  " & is grade B ")
+#     else:
+#         if Student_Score >= 70:
+#             print("Student scored  : " + str(Student_Score) +  " & is grade C ")
+#         else:
+#             if Student_Score >= 60:
+#                 print("Student scored  : " + str(Student_Score) +  " & is grade D ")
+#             else:
+#                 print("Student scored  : " + str(Student_Score) +  " & is grade F ")
 
-
-
-
-
-
-
-
-
-
-
-
+# from random import randint
+# one_to_ten = randint(1, 10)
+#
+# if one_to_ten == 1:
+#     print("The roman numeral equivalent of " + str(one_to_ten) + " is I ")
+# elif one_to_ten == 2:
+#     print("The roman numeral equivalent of " + str(one_to_ten) + " is II")
+# elif one_to_ten == 3:
+#     print("The roman numeral equivalent of " + str(one_to_ten) + " is III")
+# elif one_to_ten == 4:
+#     print("The roman numeral equivalent of " + str(one_to_ten) + " is IV")
+# elif one_to_ten == 5:
+#     print("The roman numeral equivalent of " + str(one_to_ten) + " is V")
+# elif one_to_ten == 6:
+#     print("The roman numeral equivalent of " + str(one_to_ten) + " is VI")
+# elif one_to_ten == 7:
+#     print("The roman numeral equivalent of " + str(one_to_ten) + " is VII")
+# elif one_to_ten == 8:
+#     print("The roman numeral equivalent of " + str(one_to_ten) + " is VIII")
+# elif one_to_ten == 9:
+#     print("The roman numeral equivalent of " + str(one_to_ten) + " is XI")
+# elif one_to_ten == 10:
+#     print("The roman numeral equivalent of " + str(one_to_ten) + " is X")
 
 
 
